@@ -1,0 +1,6 @@
+{
+  "name": "OrderSaathi",
+  "description": "AI-Powered Wholesale Business Management Mobile App for Indian Wholesalers, Textile Traders, Garment Manufacturers, and Distributors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
